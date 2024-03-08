@@ -3,7 +3,7 @@
 This programme represents a simple bank account with functionalities to deposit and withdraw funds. 
 
 ### Constructor 
-`constructor(accountHolder, accountNumber, balance = 0)` - Initializes a new bank account with the provided `accountHolder`, `accountNumber`, and an optional initial `balance` (defaults to 0 if not provided).
+`constructor(accountHolder, accountNumber, balance = 0)`: Initializes a new bank account with the provided `accountHolder`, `accountNumber`, and an optional initial `balance` (defaults to 0 if not provided).
 
 ### Methods
 1. `deposit(amount)`
